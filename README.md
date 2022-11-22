@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mihazzz123
+- 👀 I’m interested in fullstack develop
+- 🌱 I’m currently learning golang, angular
+- 📫 How to reach me - [telegramm](https://t.me/mihazzzold)
